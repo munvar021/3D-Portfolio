@@ -142,7 +142,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {currentYear} John Doe. All Rights Reserved.</p>
+          <p>&copy; {currentYear} Munvar Khajavali. All Rights Reserved.</p>
           <p>
             Designed & Built with <i className="fas fa-heart"></i>
           </p>
