@@ -111,28 +111,21 @@ const Footer = () => {
 
           <div className="footer-social">
             <a
-              href="https://github.com"
+              href="https://github.com/munvar021"
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="fab fa-github"></i>
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/munvar-khajavali-shaik"
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="fab fa-linkedin"></i>
             </a>
             <a
-              href="https://twitter.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="fab fa-twitter"></i>
-            </a>
-            <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/munvar_khajavali"
               target="_blank"
               rel="noopener noreferrer"
             >

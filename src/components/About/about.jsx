@@ -17,7 +17,6 @@ const About = () => {
     { name: "React", icon: "fab fa-react" },
     { name: "Node.js", icon: "fab fa-node-js" },
     { name: "Git", icon: "fab fa-git-alt" },
-    { name: "Sass", icon: "fab fa-sass" },
     { name: "Python", icon: "fab fa-python" },
   ];
 
@@ -173,16 +172,18 @@ const About = () => {
 
           <div className="about-text">
             <p>
-              Hello! I'm Munvar, a passionate Full Stack Developer based in New
-              York City. I enjoy creating things that live on the internet,
-              whether that be websites, applications, or anything in between.
+              I'm a passionate Full Stack Developer with expertise in ReactJS,
+              Node.js, and SQL, dedicated to crafting scalable, functional, and
+              user-centered digital experiences. My approach combines technical
+              proficiency with creative problem-solving to build
+              high-performance web applications that enhance user engagement and
+              efficiency.
             </p>
             <p>
-              My goal is to always build products that provide pixel-perfect,
-              performant experiences. Shortly after graduating from University
-              of Technology, I joined the engineering team at a startup where I
-              work on a wide variety of interesting and meaningful projects on a
-              daily basis.
+              I thrive on solving real-world problems through innovative web
+              solutions. Whether it's optimizing performance, enhancing user
+              experience, or integrating cutting-edge technologies, I am always
+              eager to push boundaries and create impact.
             </p>
             <p>Here are a few technologies I've been working with recently:</p>
 
