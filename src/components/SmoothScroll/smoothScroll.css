@@ -1,0 +1,28 @@
+.parent {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.smooth-scroll {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  will-change: transform;
+}
+
+@media (max-width: 768px) {
+  .parent {
+    position: relative;
+    overflow: visible;
+  }
+
+  .smooth-scroll {
+    position: relative;
+    transform: none !important;
+  }
+}
