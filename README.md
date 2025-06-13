@@ -2,7 +2,7 @@
 
 A sleek, responsive portfolio website featuring interactive 3D elements built with React, Three.js, and React Router. This portfolio showcases a minimalist black and white design aesthetic with engaging 3D visuals.
 
-![Portfolio Preview](https://res.cloudinary.com/dnkjgw2ti/image/upload/v1749815664/Portfolio/aaeudbvpxr4uyjpgdv1n.png)
+![Portfolio Preview](https://res.cloudinary.com/dnkjgw2ti/image/upload/v1749816155/Portfolio/wrzq28nldtdovlcxge3c.png)
 
 ## Features
 
